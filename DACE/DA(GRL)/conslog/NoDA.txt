@@ -1,0 +1,139 @@
+/Users/wangzilong/anaconda3/anaconda3/bin/python /Users/wangzilong/Desktop/AHCE&DACE/DACE/DA(GRL)/train.py
+/Users/wangzilong/anaconda3/anaconda3/lib/python3.8/site-packages/gensim/similarities/__init__.py:15: UserWarning: The gensim.similarities.levenshtein submodule is disabled, because the optional Levenshtein package <https://pypi.org/project/python-Levenshtein/> is unavailable. Install Levenhstein (e.g. `pip install python-Levenshtein`) to suppress this warning.
+  warnings.warn(msg)
+Loaded queries
+Loaded bitmaps
+min log(label): 0.0
+max log(label): 26.863607669810833
+Number of training samples: 100
+Created TensorDataset for training data
+Loaded queries
+Loaded bitmaps
+Number of test samples: 70
+the length of train_data_loader:  2
+the length of test_data_loader:  1
+Epoch 0, loss: 12452.97265625
+Epoch 1, loss: 12604.117309570312
+Epoch 2, loss: 26488.44366455078
+Epoch 3, loss: 9452.367431640625
+Epoch 4, loss: 12769.260314941406
+Epoch 5, loss: 9909.971130371094
+Epoch 6, loss: 8762.422058105469
+Epoch 7, loss: 8112.764404296875
+Epoch 8, loss: 6033.236724853516
+Epoch 9, loss: 5293.048156738281
+Epoch 10, loss: 3835.0680236816406
+Epoch 11, loss: 3025.0885009765625
+Epoch 12, loss: 2185.876708984375
+Epoch 13, loss: 1615.7933959960938
+Epoch 14, loss: 1186.3626708984375
+Epoch 15, loss: 818.9987487792969
+Epoch 16, loss: 668.9690551757812
+Epoch 17, loss: 458.8405303955078
+Epoch 18, loss: 340.03224182128906
+Epoch 19, loss: 221.83744049072266
+Epoch 20, loss: 151.47889709472656
+Epoch 21, loss: 124.2312240600586
+Epoch 22, loss: 99.48349380493164
+Epoch 23, loss: 79.57063293457031
+Epoch 24, loss: 66.5493335723877
+Epoch 25, loss: 56.43957710266113
+Epoch 26, loss: 50.47768783569336
+Epoch 27, loss: 47.25793266296387
+Epoch 28, loss: 44.06561088562012
+Epoch 29, loss: 41.314592361450195
+Epoch 30, loss: 38.88135242462158
+Epoch 31, loss: 36.87175750732422
+Epoch 32, loss: 34.88697624206543
+Epoch 33, loss: 32.90101146697998
+Epoch 34, loss: 30.91651725769043
+Epoch 35, loss: 29.167298316955566
+Epoch 36, loss: 27.596482276916504
+Epoch 37, loss: 26.097920417785645
+Epoch 38, loss: 24.72902202606201
+Epoch 39, loss: 23.85792064666748
+Epoch 40, loss: 22.905034065246582
+Epoch 41, loss: 21.901148319244385
+Epoch 42, loss: 20.951035976409912
+Epoch 43, loss: 20.20382785797119
+Epoch 44, loss: 19.497544765472412
+Epoch 45, loss: 18.469148635864258
+Epoch 46, loss: 18.0349760055542
+Epoch 47, loss: 17.36659860610962
+Epoch 48, loss: 16.437360763549805
+Epoch 49, loss: 16.011300563812256
+Epoch 50, loss: 15.399174690246582
+Epoch 51, loss: 14.627406597137451
+Epoch 52, loss: 14.228183269500732
+Epoch 53, loss: 13.702892065048218
+Epoch 54, loss: 12.93556547164917
+Epoch 55, loss: 12.827589511871338
+Epoch 56, loss: 12.150342464447021
+Epoch 57, loss: 11.761483192443848
+Epoch 58, loss: 11.440374374389648
+Epoch 59, loss: 11.045469760894775
+Epoch 60, loss: 10.694377660751343
+Epoch 61, loss: 10.439209222793579
+Epoch 62, loss: 10.066585302352905
+Epoch 63, loss: 9.72216010093689
+Epoch 64, loss: 9.51291537284851
+Epoch 65, loss: 9.090348958969116
+Epoch 66, loss: 8.98640751838684
+Epoch 67, loss: 8.593255519866943
+Epoch 68, loss: 8.601042747497559
+Epoch 69, loss: 8.219336748123169
+Epoch 70, loss: 8.109203815460205
+Epoch 71, loss: 7.844614267349243
+Epoch 72, loss: 7.853289365768433
+Epoch 73, loss: 7.517275333404541
+Epoch 74, loss: 7.6152379512786865
+Epoch 75, loss: 7.20549750328064
+Epoch 76, loss: 7.397557735443115
+Epoch 77, loss: 6.990779876708984
+Epoch 78, loss: 7.182302355766296
+Epoch 79, loss: 6.803143858909607
+Epoch 80, loss: 6.852715373039246
+Epoch 81, loss: 6.643535137176514
+Epoch 82, loss: 6.531270623207092
+Epoch 83, loss: 6.516359925270081
+Epoch 84, loss: 6.331634163856506
+Epoch 85, loss: 6.34527587890625
+Epoch 86, loss: 6.155388116836548
+Epoch 87, loss: 6.216105699539185
+Epoch 88, loss: 6.035162687301636
+Epoch 89, loss: 5.976057410240173
+Epoch 90, loss: 5.9169652462005615
+Epoch 91, loss: 5.761163830757141
+Epoch 92, loss: 5.7821364402771
+Epoch 93, loss: 5.603670120239258
+Epoch 94, loss: 5.789284348487854
+Epoch 95, loss: 5.420346140861511
+Epoch 96, loss: 5.674401879310608
+Epoch 97, loss: 5.41942822933197
+Epoch 98, loss: 5.241821646690369
+Epoch 99, loss: 5.338532209396362
+训练时间： 4.753673076629639
+/Users/wangzilong/Desktop/AHCE&DACE/DACE/DA(GRL)/GRL/util.py:117: FutureWarning: The input object of type 'Tensor' is an array-like implementing one of the corresponding protocols (`__array__`, `__array_interface__` or `__array_struct__`); but not a sequence (or 0-D). In the future, this object will be coerced as if it was first converted using `np.array(obj)`. To retain the old behaviour, you have to either modify the type 'Tensor', or assign to an empty array created with `np.empty(correct_shape, dtype=object)`.
+  labels_norm = np.array(labels_norm, dtype=np.float32)
+Prediction time per training sample: 0.1411294937133789
+
+Q-Error training set:
+25th percentile: 1.2057560628190318
+Median: 1.5469399762332035
+90th percentile: 11.172174249437337
+95th percentile: 31.827200835474443
+99th percentile: 63.26906264793737
+Max: 90.30879466620769
+Mean: 5.959309201735842
+Prediction time per test sample: 0.15404224395751953
+
+Q-Error job-light:
+25th percentile: 2.8774044444685702
+Median: 7.11552696883919
+90th percentile: 130.61227400809895
+95th percentile: 356.5462127005842
+99th percentile: 1464.260443234252
+Max: 2550.222222222222
+Mean: 94.0679091758469
+
+Process finished with exit code 0

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="AHCE">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data/zilongw/finalCECode/myCECode/AHCE" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="mscnHistogram">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data/zilongw/finalCECode/imdb/mscnHistgram" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zilongw@211.71.76.154:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data/zilongw/finalCECode/imdb/mscnHistgram" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

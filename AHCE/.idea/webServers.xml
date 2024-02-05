@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c59723e9-3ef7-400f-b900-beeede0630cf" name="mscnHistogram">
+        <fileTransfer accessType="SFTP" host="211.71.76.154" port="22" sshConfigId="eafd9ecc-747e-4c5b-9152-0c69dd320304" sshConfig="zilongw@211.71.76.154:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="d222528c-9a82-4056-8bf3-ee2e82c17111" name="AHCE">
+        <fileTransfer accessType="SFTP" host="211.71.76.154" port="22" sshConfigId="eafd9ecc-747e-4c5b-9152-0c69dd320304" sshConfig="zilongw@211.71.76.154:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
