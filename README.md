@@ -86,4 +86,5 @@ python get_cardinality_estimate_actual.py
 - DANN: https://github.com/zengjichuan/DANN
 - DeepDB: https://github.com/DataManagementLab/deepdb-public
 - NeuroCard: https://github.com/neurocard/neurocard
-- CEDA: https://github.com/Donny-350/CEDA
+- CEDA(Our Demo): https://github.com/Donny-350/CEDA
+
