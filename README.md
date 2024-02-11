@@ -83,8 +83,7 @@ python get_cardinality_estimate_actual.py
 ## Code References:
 
 - MSCN: [https://github.com/andreaskipf/learnedcardinalities](https://github.com/andreaskipf/learnedcardinalities)
-
 - DANN: https://github.com/zengjichuan/DANN
-
-- DeepDB：https://github.com/DataManagementLab/deepdb-public
-- NeuroCard：https://github.com/neurocard/neurocard
+- DeepDB: https://github.com/DataManagementLab/deepdb-public
+- NeuroCard: https://github.com/neurocard/neurocard
+- CEDA: https://github.com/Donny-350/CEDA
