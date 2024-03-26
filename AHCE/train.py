@@ -11,7 +11,7 @@ from ahce.data import get_train_datasets, load_data, make_dataset
 from ahce.model import AHCE
 import numpy as np
 
-SEED=20
+SEED=0
 np.random.seed(SEED)
 torch.manual_seed(SEED)  # 为CPU设置种子用于生成随机数，以使得结果是确定的
 torch.cuda.manual_seed(SEED)  # 为GPU设置随机种子
